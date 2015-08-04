@@ -10,6 +10,7 @@ http://ke.qq.com/cgi-bin/courseDetail?course_id=52999 当浏览器输入url敲�
 
 http://www.cnblogs.com/laayoune/p/4105415.html scss compass<br>
 用compass制作css sprite
+-----------------------------------
 ```sh
 $icon-sprite-dimensions:true;
 $icon-spacing:8px;
