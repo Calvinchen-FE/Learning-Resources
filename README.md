@@ -8,7 +8,7 @@ http://pan.baidu.com/s/1mg5kd3U  javascript高级程序设计
 
 http://ke.qq.com/cgi-bin/courseDetail?course_id=52999 当浏览器输入url敲下回车后发生了什么
 
-http://www.cnblogs.com/laayoune/p/4105415.html scss compass
+http://www.cnblogs.com/laayoune/p/4105415.html scss compass<br>
 用compass制作css sprite
 ```sh
 $icon-sprite-dimensions:true;
