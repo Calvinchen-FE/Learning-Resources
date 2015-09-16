@@ -1,0 +1,6 @@
+$footer-sprite-dimensions: true; //icon图片大小 
+$footer-spacing: 10px;//间距
+$footer-layout: horizontal; //排列方式
+@import "compass/utilities/sprites";
+@import "footer/*.png";
+@include all-footer-sprites;
