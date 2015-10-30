@@ -12,4 +12,7 @@ http://compass-style.org/help/tutorials/
 用compass制作css sprite
 -----------------------------------
 http://www.w3cplus.com/preprocessor/intermediate/spriting-with-sass-and-compass.html 
+windows安装react-native
+-----------------------------------
+http://blog.csdn.net/u011068702/article/details/49448043
 
