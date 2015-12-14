@@ -16,3 +16,7 @@ windows安装react-native
 -----------------------------------
 http://blog.csdn.net/u011068702/article/details/49448043
 
+ES6
+-----------------------------------
+http://es6.ruanyifeng.com/
+
